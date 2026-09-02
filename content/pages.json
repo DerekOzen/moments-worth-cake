@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Cake Makers & Cake Designers Australia | Moments Worth Cake",
+    "seoDescription": "Find cake makers, cake designers and dessert artists across Australia. Custom cakes, wedding cakes and dessert tables — tell us about your moment and get quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T12:16:32.456Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T12:16:32.456Z",
+    "createdBy": "alper"
+  }
+]
