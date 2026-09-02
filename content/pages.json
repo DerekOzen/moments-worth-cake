@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Cake Makers & Cake Designers Australia | Moments Worth Cake",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-02T12:16:32.456Z",
+    "status": "published",
+    "updatedAt": "2026-09-02T12:16:47.279Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T12:16:32.456Z",
-    "createdBy": "alper"
+    "createdBy": "alper",
+    "isHome": true
   }
 ]
