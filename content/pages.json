@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home-2",
     "type": "page",
     "title": "Home",
     "seoTitle": "Cake Makers & Cake Designers Australia | Moments Worth Cake",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:23:08.875Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-11T01:03:47.245Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-02T12:16:32.456Z",
     "createdBy": "alper",
-    "isHome": true,
+    "isHome": false,
     "noindex": false
   },
   {
@@ -53,7 +53,7 @@
   },
   {
     "id": "pg-4",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Custom Cakes & Cake Makers Australia | Moments Worth Cake",
@@ -61,10 +61,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
-    "updatedAt": "2026-09-11T01:03:19.101Z",
+    "status": "published",
+    "updatedAt": "2026-09-11T01:03:47.245Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-11T01:03:19.101Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
