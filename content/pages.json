@@ -1086,5 +1086,21 @@
     "createdAt": "2026-09-11T02:18:02.911Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-68",
+    "path": "/cake-ideas",
+    "type": "page",
+    "title": "Cake Ideas & Inspiration | Moments Worth Cake",
+    "seoTitle": "Cake Ideas & Inspiration | Moments Worth Cake",
+    "seoDescription": "Cake ideas, style vocabulary and planning guides for Australian celebrations. Work out servings, timing, flavour and the look before you brief a cake maker.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-11T02:54:35.715Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-11T02:54:35.715Z",
+    "createdBy": "joshua"
   }
 ]
