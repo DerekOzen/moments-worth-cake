@@ -1030,6 +1030,23 @@
   },
   {
     "id": "pg-65",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Custom Cakes & Cake Makers Australia | Moments Worth Cake",
+    "seoDescription": "Discover custom cakes, cake makers, cake designers and dessert artists across Australia. Share one cake brief and compare responses. No obligation to book.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "published",
+    "updatedAt": "2026-09-11T01:57:36.603Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-11T01:47:20.272Z",
+    "createdBy": "joshua",
+    "isHome": false
+  },
+  {
+    "id": "pg-66",
     "path": "/",
     "type": "page",
     "title": "Home",
@@ -1039,26 +1056,10 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-11T01:47:51.599Z",
-    "updatedBy": "joshua",
-    "createdAt": "2026-09-11T01:47:20.272Z",
-    "createdBy": "joshua",
-    "isHome": true
-  },
-  {
-    "id": "pg-66",
-    "path": "/home",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Custom Cakes & Cake Makers Australia | Moments Worth Cake",
-    "seoDescription": "Discover custom cakes, cake makers, cake designers and dessert artists across Australia. Share one cake brief and compare responses. No obligation to book.",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "draft",
-    "updatedAt": "2026-09-11T01:56:39.714Z",
+    "updatedAt": "2026-09-11T01:57:36.603Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-11T01:56:39.714Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
