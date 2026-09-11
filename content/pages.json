@@ -820,11 +820,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-11T01:31:20.434Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-11T01:32:30.411Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-11T02:53:30.656Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-52",
