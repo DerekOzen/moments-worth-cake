@@ -44,10 +44,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-09-11T00:28:45.655Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-11T00:30:33.058Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-11T00:28:45.655Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": false
   }
 ]
