@@ -1061,5 +1061,21 @@
     "createdAt": "2026-09-11T01:56:39.714Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-67",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Custom Cakes & Cake Makers Australia | Moments Worth Cake",
+    "seoDescription": "Discover custom cakes, cake makers, cake designers and dessert artists across Australia. Share one cake brief and compare responses. No obligation to book.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-11T02:18:02.911Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-11T02:18:02.911Z",
+    "createdBy": "joshua"
   }
 ]
