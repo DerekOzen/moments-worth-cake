@@ -1064,9 +1064,9 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-15T05:43:24.456Z",
-    "updatedBy": "alper",
+    "status": "deleted",
+    "updatedAt": "2026-09-22T07:27:11.155Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-11T01:56:39.714Z",
     "createdBy": "joshua",
     "isHome": false
