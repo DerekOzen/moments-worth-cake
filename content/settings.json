@@ -1,10 +1,10 @@
 {
   "name": "Moments Worth Cake",
   "tagline": " Find Cake Makers, Wedding Cake Designers & Dessert Artists Across Australia.",
-  "phone": "",
+  "phone": "N/A",
   "email": "",
   "areas": "AUSTRALIA",
-  "hoursWeek": "Mon–Fri 9am–5pm",
-  "hoursSat": "Closed",
+  "hoursWeek": "9am–5pm",
+  "hoursSat": "9am–5pm",
   "siteUrl": "https://moments-worth-cake.pages.dev"
 }
