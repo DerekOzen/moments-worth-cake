@@ -78,11 +78,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-11T01:28:04.073Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-11T01:32:30.411Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-22T07:26:55.845Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-6",
