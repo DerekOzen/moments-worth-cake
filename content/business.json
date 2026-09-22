@@ -4,5 +4,12 @@
   "country": "AU",
   "areaServed": "Australia",
   "email": "mia@myeventmatch.com",
-  "url": "https://momentsworthcake.com.au/"
+  "url": "https://momentsworthcake.com.au/",
+  "phone": "N/A",
+  "streetAddress": "PO Box 6330, 379 Victoria St,",
+  "state": "NSW",
+  "postcode": "2164",
+  "suburb": "Wetherill Park",
+  "openingHours": "Monday to Saturday 9AM to 5 PM",
+  "priceRange": "$-$$$"
 }
