@@ -3,7 +3,7 @@
   "legalName": "Moments Worth Cake",
   "country": "AU",
   "areaServed": "Australia",
-  "email": "mia@myeventmatch.com",
+  "email": "info@momentsworthcake.com.au",
   "url": "https://momentsworthcake.com.au/",
   "phone": "N/A",
   "streetAddress": "PO Box 6330, 379 Victoria St,",
@@ -11,5 +11,6 @@
   "postcode": "2164",
   "suburb": "Wetherill Park",
   "openingHours": "Monday to Saturday 9AM to 5 PM",
-  "priceRange": "$-$$$"
+  "priceRange": "$-$$$",
+  "image": "https://momentsworthcake.com.au/uploads/newcastle-7022a60c.jpg"
 }
