@@ -1,0 +1,251 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mueqtm9p-rbz7",
+      "at": "2026-09-23T23:37:38.557Z",
+      "count": 60,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-AB11CBD5"
+        },
+        {
+          "path": "/cake-makers",
+          "newRecordId": "SCHEMA-9FB0B0D4"
+        },
+        {
+          "path": "/cake-designers",
+          "newRecordId": "SCHEMA-9E69F85D"
+        },
+        {
+          "path": "/dessert-artists",
+          "newRecordId": "SCHEMA-29FB2AC5"
+        },
+        {
+          "path": "/custom-cake-makers",
+          "newRecordId": "SCHEMA-294FCF06"
+        },
+        {
+          "path": "/wedding-cake-makers",
+          "newRecordId": "SCHEMA-5FD5263C"
+        },
+        {
+          "path": "/wedding-cakes",
+          "newRecordId": "SCHEMA-B3649EBB"
+        },
+        {
+          "path": "/birthday-cakes",
+          "newRecordId": "SCHEMA-D735B06F"
+        },
+        {
+          "path": "/kids-birthday-cakes",
+          "newRecordId": "SCHEMA-40896B8A"
+        },
+        {
+          "path": "/custom-cakes",
+          "newRecordId": "SCHEMA-251A1A42"
+        },
+        {
+          "path": "/celebration-cakes",
+          "newRecordId": "SCHEMA-51EC1592"
+        },
+        {
+          "path": "/corporate-cakes",
+          "newRecordId": "SCHEMA-AF1A0025"
+        },
+        {
+          "path": "/anniversary-cakes",
+          "newRecordId": "SCHEMA-6FE98F99"
+        },
+        {
+          "path": "/baby-shower-cakes",
+          "newRecordId": "SCHEMA-44A062B6"
+        },
+        {
+          "path": "/christening-cakes",
+          "newRecordId": "SCHEMA-9976924A"
+        },
+        {
+          "path": "/engagement-cakes",
+          "newRecordId": "SCHEMA-EE1E1C3A"
+        },
+        {
+          "path": "/dessert-tables",
+          "newRecordId": "SCHEMA-67EA39AB"
+        },
+        {
+          "path": "/find-a-cake-maker",
+          "newRecordId": "SCHEMA-9553D845"
+        },
+        {
+          "path": "/cakes-desserts",
+          "newRecordId": "SCHEMA-86A6A1D7"
+        },
+        {
+          "path": "/occasions",
+          "newRecordId": "SCHEMA-9918E983"
+        },
+        {
+          "path": "/cake-styles",
+          "newRecordId": "SCHEMA-F8A13B15"
+        },
+        {
+          "path": "/cake-ideas",
+          "newRecordId": "SCHEMA-C517D6F8"
+        },
+        {
+          "path": "/cake-ideas/booking-timeline",
+          "newRecordId": "SCHEMA-62AE204E"
+        },
+        {
+          "path": "/cake-ideas/cake-size-serving-guide",
+          "newRecordId": "SCHEMA-E29F9123"
+        },
+        {
+          "path": "/get-cake-maker-quotes",
+          "newRecordId": "SCHEMA-664FABCC"
+        },
+        {
+          "path": "/how-quotes-work",
+          "newRecordId": "SCHEMA-4597381B"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-EEA4A423"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-1B5244B5"
+        },
+        {
+          "path": "/terms-of-use",
+          "newRecordId": "SCHEMA-58A49EF0"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-741CD4E5"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-718652C1"
+        },
+        {
+          "path": "/locations/vic",
+          "newRecordId": "SCHEMA-07291338"
+        },
+        {
+          "path": "/locations/qld",
+          "newRecordId": "SCHEMA-FC49CD1C"
+        },
+        {
+          "path": "/locations/wa",
+          "newRecordId": "SCHEMA-C3E23849"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-sydney",
+          "newRecordId": "SCHEMA-17DFC9AB"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-blacktown",
+          "newRecordId": "SCHEMA-04CCDC82"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-campbelltown",
+          "newRecordId": "SCHEMA-511E2410"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-castle-hill",
+          "newRecordId": "SCHEMA-397A07E8"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-central-coast",
+          "newRecordId": "SCHEMA-E3B25878"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-chatswood",
+          "newRecordId": "SCHEMA-782521FE"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-newcastle",
+          "newRecordId": "SCHEMA-FDD01542"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-northern-beaches",
+          "newRecordId": "SCHEMA-3591EC70"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-parramatta",
+          "newRecordId": "SCHEMA-B9AEEB6C"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-penrith",
+          "newRecordId": "SCHEMA-EDBBE42E"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-sutherland-shire",
+          "newRecordId": "SCHEMA-719D4FCC"
+        },
+        {
+          "path": "/locations/nsw/cake-makers-wollongong",
+          "newRecordId": "SCHEMA-D1B87AD5"
+        },
+        {
+          "path": "/locations/vic/cake-makers-melbourne",
+          "newRecordId": "SCHEMA-A8056392"
+        },
+        {
+          "path": "/locations/vic/cake-makers-geelong",
+          "newRecordId": "SCHEMA-69606067"
+        },
+        {
+          "path": "/locations/vic/cake-makers-mornington-peninsula",
+          "newRecordId": "SCHEMA-1440C270"
+        },
+        {
+          "path": "/locations/vic/cake-makers-werribee",
+          "newRecordId": "SCHEMA-0AFEDA22"
+        },
+        {
+          "path": "/locations/qld/cake-makers-brisbane",
+          "newRecordId": "SCHEMA-E96A08C6"
+        },
+        {
+          "path": "/locations/qld/cake-makers-gold-coast",
+          "newRecordId": "SCHEMA-617DA21C"
+        },
+        {
+          "path": "/locations/qld/cake-makers-sunshine-coast",
+          "newRecordId": "SCHEMA-948E241F"
+        },
+        {
+          "path": "/locations/qld/cake-makers-ipswich",
+          "newRecordId": "SCHEMA-815E0640"
+        },
+        {
+          "path": "/locations/qld/cake-makers-north-lakes",
+          "newRecordId": "SCHEMA-737395D2"
+        },
+        {
+          "path": "/locations/qld/cake-makers-toowoomba",
+          "newRecordId": "SCHEMA-91D0EC55"
+        },
+        {
+          "path": "/locations/wa/cake-makers-perth",
+          "newRecordId": "SCHEMA-F0EB3A8A"
+        },
+        {
+          "path": "/locations/wa/cake-makers-joondalup",
+          "newRecordId": "SCHEMA-BC589339"
+        },
+        {
+          "path": "/locations/wa/cake-makers-mandurah",
+          "newRecordId": "SCHEMA-D7A79BA7"
+        },
+        {
+          "path": "/locations/wa/cake-makers-rockingham",
+          "newRecordId": "SCHEMA-47C7FE59"
+        }
+      ]
+    }
+  ]
+}
