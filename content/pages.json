@@ -1111,10 +1111,12 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-15T05:46:02.701Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-30T06:23:59.191Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-11T02:54:35.715Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "featuredImage": "/uploads/cake-makers-nsw-cb4d4fd2.jpg",
+    "featuredImageAlt": "A sprinkle covered party cake with a slice cut and ready to serve."
   },
   {
     "id": "pg-69",
