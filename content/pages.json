@@ -732,8 +732,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:31:20.434Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T06:22:54.190Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-30T06:25:25.570Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/1280by720christingcake-e54e9011.jpg",
+    "featuredImageAlt": "A small pale cake with piped daisies and a single candle."
   },
   {
     "id": "pg-45",
