@@ -223,8 +223,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:28:04.073Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T00:52:38.877Z",
-    "updatedBy": "mohseen"
+    "updatedAt": "2026-09-30T06:24:35.938Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/cake-makers-efcc43a9.jpg",
+    "featuredImageAlt": "A design led green cake with rippled frosting and gold pearls."
   },
   {
     "id": "pg-14",
