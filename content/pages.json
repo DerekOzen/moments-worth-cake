@@ -294,8 +294,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:28:04.073Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T02:19:28.234Z",
-    "updatedBy": "murtaza"
+    "updatedAt": "2026-09-30T06:28:21.903Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/cake-makers-castle-hill-566191a7.jpg",
+    "featuredImageAlt": "Cake Makers Castle Hill"
   },
   {
     "id": "pg-18",
