@@ -402,8 +402,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:28:04.073Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-22T04:57:23.558Z",
-    "updatedBy": "murtaza"
+    "updatedAt": "2026-09-30T06:32:55.191Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/cake-makers-joondalup-f75aae3e.jpg",
+    "featuredImageAlt": "Cake Makers Joondalup"
   },
   {
     "id": "pg-24",
