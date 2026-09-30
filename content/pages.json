@@ -1120,8 +1120,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:31:20.434Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T05:53:23.080Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-30T06:32:43.096Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/cake-maker-wa1280x720-fd2a6ebe.jpg",
+    "featuredImageAlt": "A tall white drip cake covered in chocolate buttons and sprinkles."
   },
   {
     "id": "pg-65",
