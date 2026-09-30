@@ -893,8 +893,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:31:20.434Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T04:35:25.571Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-30T06:27:12.791Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/minimal-2ebd7e31.jpg",
+    "featuredImageAlt": "A cake decorator smoothing buttercream onto a cake on a turntable, by hand."
   },
   {
     "id": "pg-54",
