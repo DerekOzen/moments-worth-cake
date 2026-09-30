@@ -875,8 +875,10 @@
     "status": "published",
     "createdAt": "2026-09-11T01:31:20.434Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-15T04:44:05.962Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-30T06:27:00.914Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/random-cake-0aaed155.jpg",
+    "featuredImageAlt": "A tall white drip cake covered in chocolate buttons and sprinkles."
   },
   {
     "id": "pg-53",
