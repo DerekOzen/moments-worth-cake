@@ -1082,11 +1082,13 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-22T07:33:05.342Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-30T06:22:46.299Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-11T02:18:02.911Z",
     "createdBy": "joshua",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/newcastle-7022a60c.jpg",
+    "featuredImageAlt": "Custom cakes for Australia's biggest moments Soft dry cake by moments cakes Australia"
   },
   {
     "id": "pg-68",
