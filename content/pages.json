@@ -1331,5 +1331,53 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/occasions-2e3f7ec1.jpg",
     "featuredImageAlt": "A layered chocolate cake with ganache drips and fine sugar pearls."
+  },
+  {
+    "id": "pg-76",
+    "path": "/blog/cake-ideas/smash-cake-ideas",
+    "type": "post",
+    "title": "Smash Cake Ideas for a First Birthday | Moments Worth Cake",
+    "seoTitle": "Smash Cake Ideas for a First Birthday | Moments Worth Cake",
+    "seoDescription": "What a smash cake is, how it is built, ideas that photograph well, and how to order one alongside the main first birthday cake.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T04:30:10.151Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-20T04:30:10.151Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-77",
+    "path": "/blog/cake-ideas/wedding-cake-styles",
+    "type": "post",
+    "title": "Wedding Cake Styles Explained | Moments Worth Cake",
+    "seoTitle": "Wedding Cake Styles Explained | Moments Worth Cake",
+    "seoDescription": "Tiers, coverings, finishes and decoration explained in plain words, so you can describe the wedding cake you want and brief a maker properly.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T04:30:10.151Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-20T04:30:10.151Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-78",
+    "path": "/blog/cake-ideas/dietary-cakes-australia",
+    "type": "post",
+    "title": "Ordering a Gluten Free or Dairy Free Cake | Moments Worth Cake",
+    "seoTitle": "Ordering a Gluten Free or Dairy Free Cake | Moments Worth Cake",
+    "seoDescription": "How to brief an Australian cake maker about gluten free, dairy free or low sugar requirements, and the questions worth asking before you order.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T04:30:10.151Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-20T04:30:10.151Z",
+    "updatedBy": "gabriel"
   }
 ]
