@@ -1395,12 +1395,12 @@
     "seoTitle": "Cake Ideas & Inspiration | Moments Worth Cake",
     "seoDescription": "Cake ideas, style vocabulary and planning guides for Australian celebrations. Work out servings, timing, flavour and the look before you brief a cake maker.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": null,
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T05:14:20.610Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T05:14:20.610Z",
+    "updatedAt": "2026-10-20T05:19:28.530Z",
     "updatedBy": "gabriel"
   }
 ]
