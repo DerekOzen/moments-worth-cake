@@ -1386,5 +1386,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/ordering-a-cake-for-dietary-needs-in-aus-59a1c3d6.jpg",
     "featuredImageAlt": "A berry topped celebration cake on a white stand in an Australian bakery kitchen."
+  },
+  {
+    "id": "pg-79",
+    "path": "/cake-ideas",
+    "type": "page",
+    "title": "Cake Ideas & Inspiration | Moments Worth Cake",
+    "seoTitle": "Cake Ideas & Inspiration | Moments Worth Cake",
+    "seoDescription": "Cake ideas, style vocabulary and planning guides for Australian celebrations. Work out servings, timing, flavour and the look before you brief a cake maker.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:14:20.610Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-20T05:14:20.610Z",
+    "updatedBy": "gabriel"
   }
 ]
