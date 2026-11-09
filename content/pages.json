@@ -1402,5 +1402,53 @@
     "createdBy": "gabriel",
     "updatedAt": "2026-10-20T05:19:28.530Z",
     "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-80",
+    "path": "/cake-ideas/wedding-cake-tiers",
+    "type": "post",
+    "title": "Wedding Cake Tiers: How Many Does a Cake Need? | Moments Worth Cake",
+    "seoTitle": "Wedding Cake Tiers: How Many Does a Cake Need? | Moments Worth Cake",
+    "seoDescription": "How many wedding cake tiers you need, worked out from guest count, serving size, height, structure and transport, plus when dummy tiers make sense.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-09T23:27:52.743Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T23:27:52.743Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-81",
+    "path": "/cake-ideas/how-to-freeze-cake",
+    "type": "post",
+    "title": "How to Freeze Cake and Keep It Fresh in Summer | Moments Worth Cake",
+    "seoTitle": "How to Freeze Cake and Keep It Fresh in Summer | Moments Worth Cake",
+    "seoDescription": "How to freeze cake properly: cooling, double wrapping, how long it keeps, and thawing without condensation wrecking the finish in summer heat.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-09T23:27:52.743Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T23:27:52.743Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-82",
+    "path": "/cake-ideas/cake-fillings",
+    "type": "post",
+    "title": "Cake Fillings: What Holds Up in an Australian Summer | Moments Worth Cake",
+    "seoTitle": "Cake Fillings: What Holds Up in an Australian Summer | Moments Worth Cake",
+    "seoDescription": "How to choose cake fillings when you commission a cake, including which fillings hold up in Australian summer heat and which need to stay cold.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-09T23:27:52.743Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T23:27:52.743Z",
+    "updatedBy": "gabriel"
   }
 ]
